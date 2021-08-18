@@ -1,3 +1,32 @@
+```
+
+      ______                         __                                    ________  ________   ______      
+     /      \                       |  \                                  |        \|        \ /      \     
+    |  $$$$$$\ __    __   _______  _| $$_     ______   ______ ____         \$$$$$$$$| $$$$$$$$|  $$$$$$\    
+    | $$   \$$|  \  |  \ /       \|   $$ \   /      \ |      \    \          | $$   | $$__     \$$__| $$    
+    | $$      | $$  | $$|  $$$$$$$ \$$$$$$  |  $$$$$$\| $$$$$$\$$$$\         | $$   | $$  \    /      $$    
+    | $$   __ | $$  | $$ \$$    \   | $$ __ | $$  | $$| $$ | $$ | $$         | $$   | $$$$$   |  $$$$$$     
+    | $$__/  \| $$__/ $$ _\$$$$$$\  | $$|  \| $$__/ $$| $$ | $$ | $$         | $$   | $$      | $$_____     
+     \$$    $$ \$$    $$|       $$   \$$  $$ \$$    $$| $$ | $$ | $$         | $$   | $$      | $$     \    
+      \$$$$$$   \$$$$$$  \$$$$$$$     \$$$$   \$$$$$$  \$$  \$$  \$$          \$$    \$$       \$$$$$$$$    
+                                                                                                            
+                                                                                                            
+                                                                                                            
+ _______                   ________          __   ______                   _______   __                     
+|       \                 |        \        |  \ /      \                 |       \ |  \                    
+| $$$$$$$\ __    __       | $$$$$$$$______  | $$|  $$$$$$\ __    __       | $$$$$$$\| $$ __    __   ______  
+| $$__/ $$|  \  |  \      | $$__   /      \ | $$| $$_  \$$|  \  |  \      | $$__/ $$| $$|  \  |  \ /      \ 
+| $$    $$| $$  | $$      | $$  \ |  $$$$$$\| $$| $$ \    | $$  | $$      | $$    $$| $$| $$  | $$|  $$$$$$\
+| $$$$$$$\| $$  | $$      | $$$$$ | $$  | $$| $$| $$$$    | $$  | $$      | $$$$$$$\| $$| $$  | $$| $$    $$
+| $$__/ $$| $$__/ $$      | $$    | $$__/ $$| $$| $$      | $$__/ $$      | $$__/ $$| $$| $$__/ $$| $$$$$$$$
+| $$    $$ \$$    $$      | $$     \$$    $$| $$| $$       \$$    $$      | $$    $$| $$ \$$    $$ \$$     \
+ \$$$$$$$  _\$$$$$$$       \$$      \$$$$$$  \$$ \$$       _\$$$$$$$       \$$$$$$$  \$$  \$$$$$$   \$$$$$$$
+          |  \__| $$                                      |  \__| $$                                        
+           \$$    $$                                       \$$    $$                                        
+            \$$$$$$                                         \$$$$$$                                         
+     
+```
+
 ## Installation
 Unzip this into your TF2's cfg folder, and add this line into your autoexec.cfg: `exec custom/main`
 
@@ -32,7 +61,7 @@ First of all, locate which folder the cfg files for that bind are located at. Fo
 Open up the `main.cfg` file with your favorite text editor, such as `notepad` by draging the file onto it.
 
 Find the line you are searching for, it should start like this: `bind <KEY> <command>`. In this case, it's this line: 
-	
+
 `bind b "build 1" // Teleporter Entrance, used to spam spawn them in friendly servers to give points`
 
 If you want to delete the bind, simply delete the line.
