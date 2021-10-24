@@ -35,7 +35,8 @@ Create a new file into your cfg folder named `autoexec` with the `cfg` extension
 
 ## Features
 #### Global (custom/global/main.cfg)
-- `Voice toggle` (Mute and unmute everyone, default *)
+- `Voice toggle` *(Default bind: \*. Mutes and unmutes everyone)* Due to a bug, you may need to open your Options -> Voice at least once for it to work.
+- `Anti AFK` Toggleable AntiAFK. *(Default bind: F9. At custom/global/antiafk.cfg)*
 - `Adblocker` for community servers *(At custom/global/adblocker.cfg)*
 - `Lag reducer` *(At custom/global/reducelag.cfg)* It may freeze your game upon launch.
 - `Kill bind and Taunt kill bind` (Default PGDN and PGUP respectively)
@@ -46,7 +47,7 @@ Create a new file into your cfg folder named `autoexec` with the `cfg` extension
 - `Quickly teleport to tele with the Eureka` (Default bind: END)
 - Bonus: Press b to quickly hold a teleporter entrance, this is used in friendly servers to spam build them to give points to enemies
 #### Spy (custom/spy/main.cfg)
-- `Quickly disguise as another class` (Default: 1-9) Use the modifier key to disguise as a friendly.
+- `Quickly disguise as another class` (Default: Modifier + 1-9) Use the modifier key to disguise as a friendly.
 - `Undisguise bind` (Default: Numpad 0)
 
 Of course, feel free to edit and customize those binds for your likings! (For this, you will need to edit the respective files! It's not very hard, I promise!)
