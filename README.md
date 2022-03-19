@@ -38,7 +38,7 @@ Drop the folder's content into your "cfg" folder.
 - `Lag reducer` *(At custom/global/reducelag.cfg)* It may freeze your game upon launch.
 - `Kill bind and Taunt kill bind` *(Default PGDN and PGUP respectively)*
 - `Modifier` (default RCTRL, used for various toggles) 
-#### Engineer (custom/engy/main.cfg)
+#### Engineer (custom/engineer/main.cfg)
 - `Quick build in any directions` *(Default bind: Arrow keys Default build: Sentry) Use the modifier key to switch to another build (Default: Dispenser)*
 - `Quickly teleport to spawn with the Eureka` *(Default bind: HOME)*
 - `Quickly teleport to tele with the Eureka` *(Default bind: END)*
@@ -58,7 +58,7 @@ Is a bind not to your likings? Or perhaps you want to get rid of one? No worries
 
 Navigate to the file which the bind belongs to (For this example, we will get rid of the Engineer bonus bind)
 
-First of all, locate which folder the cfg files for that bind are located at. For Engineer, as stated above, it's `custom/engy/`
+First of all, locate which folder the cfg files for that bind are located at. For Engineer, as stated above, it's `custom/engineer/`
 
 Open up the `main.cfg` file with your favorite text editor, such as `notepad` by draging the file onto it.
 
