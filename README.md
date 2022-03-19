@@ -48,6 +48,8 @@ Drop the folder's content into your "cfg" folder.
 #### Medic (custom/medic/main.cfg)
 - `Uber message` *(Default: '/!\ Ubercharged popped, go! /!\')* Upon right click, will automatically enable ubber and send a message in chat
 - `Medic 'wallhacks'` *(Default: R)* Forces all your teammates to call for medic, making you able to easily locate them
+#### Heavy (custom/heavyweapons/main.cfg)
+- `Sandvich throw` (Default: Mouse3) Will automatically unrev your minigun if needed
 
 There is also a help command if you type `custom_help` in the console!
 
