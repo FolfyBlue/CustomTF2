@@ -32,7 +32,7 @@ Drop the folder's content into your "cfg" folder.
 
 ## Features
 #### Global (custom/global/main.cfg)
-- `Voice toggle` *(Default bind: \*. Mutes and unmutes everyone)* Due to a bug, you may need to open your Options -> Voice at least once for it to work.
+- `Voice toggle` Mutes and unmutes everyone. *(Default bind: \*.)*
 - `Anti AFK` Toggleable AntiAFK. *(Default bind: F9. At custom/global/antiafk.cfg)*
 - `Adblocker` for community servers *(At custom/global/adblocker.cfg)*
 - `Lag reducer` *(At custom/global/reducelag.cfg)* It may freeze your game upon launch.
@@ -42,10 +42,14 @@ Drop the folder's content into your "cfg" folder.
 - `Quick build in any directions` (Default bind: Arrow keys Default build: Sentry) Use the modifier key to switch to another build (Default: Dispenser)
 - `Quickly teleport to spawn with the Eureka` (Default bind: HOME)
 - `Quickly teleport to tele with the Eureka` (Default bind: END)
-- Bonus: Press b to quickly hold a teleporter entrance, this is used in friendly servers to spam build them to give points to enemies
 #### Spy (custom/spy/main.cfg)
 - `Quickly disguise as another class` (Default: 1-9 / Modifier + 1/9) Use the modifier key to disguise as a friendly.
 - `Undisguise bind` (Default: Numpad 0)
+#### Medic (custom/medic/main.cfg)
+- `Uber message` (Default: '/!\ Ubercharged popped, go! /!\') Upon right click, will automatically enable ubber and send a message in chat
+- `Medic 'wallhacks'` (Default: R) Forces all your teammates to call for medic, making you able to easily locate them
+
+There is also a help command if you type `custom_help` in the console!
 
 Of course, feel free to edit and customize those binds for your likings! (For this, you will need to edit the respective files! It's not very hard, I promise!)
 
