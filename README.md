@@ -46,8 +46,8 @@ Drop the folder's content into your "cfg" folder.
 - `Quickly disguise as another class` *(Default: 1-9 / Modifier + 1/9)* Use the modifier key to disguise as a friendly.
 - `Undisguise bind` *(Default: Numpad 0)*
 #### Medic (custom/medic/main.cfg)
-- `Uber message` *(Default: '/!\ Ubercharged popped, go! /!\')* Upon right click, will automatically enable ubber and send a message in chat
-- `Medic 'wallhacks'` *(Default: R)* Forces all your teammates to call for medic, making you able to easily locate them
+- `Uber message` *(Default: '/!\ Ubercharged popped, go! /!\')* Upon middle click, will automatically enable ubber and send a message in chat
+- `Medic 'wallhacks'` *(Default: NUM0)* Forces all your teammates to call for medic, making you able to easily locate them
 #### Heavy (custom/heavyweapons/main.cfg)
 - `Sandvich throw` (Default: Mouse3) Will automatically unrev your minigun if needed
 
